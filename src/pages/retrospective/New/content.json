@@ -1,0 +1,28 @@
+{
+    "retro_boards_config": [
+        {
+            "key": "WENT_WELL",
+            "display": "What went well"
+        },
+        {
+            "key": "LEARNT",
+            "display": "What we learnt"
+        },
+        {
+            "key": "HAS_TO_LEARN",
+            "display": "What has to be learnt"
+        },
+        {
+            "key": "ACHEIVED",
+            "display": "What we achieved"
+        },
+        {
+            "key": "CHALLENGES",
+            "display": "Challenged faced"
+        },
+        {
+            "key": "IMPROVEMENT",
+            "display": "Improvement areas"
+        }
+    ]
+}

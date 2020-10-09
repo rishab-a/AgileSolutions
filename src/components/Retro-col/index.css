@@ -1,0 +1,62 @@
+.retro-col-container{
+    margin-top: 30px;
+}
+.retro-col{
+    display: inline-block;
+    padding-right: 10px;
+}
+.retro-col-header {
+    font-weight: 700;
+    position: relative;
+    margin-bottom: 5px;
+    min-height: 32px;
+}
+.retro-inputs-container {
+    padding: 5px;
+    overflow: auto;
+    height: 500px;
+    background: #f4f5f7;
+}
+#create-room{
+float: right;
+margin-top: 20px;
+margin-right: 10px;
+cursor: pointer;
+background: #0065FF;
+color: #ffffff;
+height: 30px;
+line-height: 20px;
+border: none !important;
+padding: 5px 20px;
+}
+.add-retro-item{
+    cursor: pointer;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.edit-actions {
+    float: right;
+    line-height: 32px;
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.del-board{
+    cursor: pointer;
+    color: #fff;
+    display: inline-block;
+}
+.board-head{
+    line-height: 32px;
+    color: #363636;
+    width: calc(100% - 40px);
+    word-break: break-word;
+    display: inline-block;
+}
+.fa-trash{
+    color: #fff;
+    padding: 6px 10px;
+    font-size: 20px;
+}
